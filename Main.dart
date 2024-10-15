@@ -17,6 +17,7 @@ class Main
     // Creating an instance of lecturer
     Lecturer lecturer = Lecturer("Grace Mallory");
     
+    // Adding students
     secretary.AddStudent(student);
     secretary.AddStudent(student2);
     secretary.AddStudent(student3);
